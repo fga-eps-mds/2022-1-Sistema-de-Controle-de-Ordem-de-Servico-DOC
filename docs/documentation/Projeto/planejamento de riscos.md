@@ -4,18 +4,15 @@ title: Planejamento de Riscos
 nav_order: 1
 parent: Projeto
 ---
-
 # Planejamento de Gerenciamento de Riscos
-
 ## 1. Introdução
 
 O Planejamento de Riscos tem como objetivo identificar e analisar possíveis medidas de riscos que o projeto possa ter, e com isso é possível ter tomadas de ações e decisões para o tratamento de maneira rápida e coerente.
-
 ## 2. Probabilidade e impacto dos riscos
 
 Para uma análise confiável dos riscos e uma priorização dos mesmos é necessária uma definição de níveis de probabilidade e impacto dos riscos. Para isso serão utilizadas algumas escalas e depois por meio de uma matriz será definida a escala de prioridade.
-
 ### 2.1 Tabela de Probabilidade
+
 |Probabilidade|Descrição|Valor|
 |--|--|--|
 |Nenhum|Nenhuma chance de acontecer|0|
@@ -24,7 +21,6 @@ Para uma análise confiável dos riscos e uma priorização dos mesmos é necess
 |Pouco Provável|Entre 41% e 60% |3|
 |Muito provável|Entre 61% e 80% |4|
 |Quase Certo|Entre 81% e 100% |5|
-
 
 ### 2.2 Tabela de Impacto
 
@@ -57,13 +53,14 @@ Os riscos podem ser classificados de acordo com várias categorias:
  - Gerência, são relativos à estimativa, planejamento, controle e comunicação.
 
 ## 4. Identificação de Riscos
+
 O processo de identificação de riscos se utilizou de identificação de riscos atráves da comparação análoga - método que se utiliza de experiências anteriores e similares para facilitar a concepção e identificação comum em projetos do gênero.
 
 ## 5. Documentação dos Riscos e Ações
 
 |Risco|Ação preventiva|Ação Reativa|Categoria|Probabilidade|Impacto|Prioridade|
 |--|--|--|--|--|--|--|
-
+<!-- Inserir esses riscos na tabela-->
 Dificuldade com tecnologias usadas
 Divergência de Horários
 Desistência da disciplina
@@ -77,10 +74,14 @@ Conflito entre entregas das disciplinas
 Alteração no cronograma da disciplina
 Alguns dos membros contrair Covid-19 ou outra doença
 
-## 6. Referências Bibliográficas
-> [1] Referência 1. Disponivel em: https://www.ref1.com/
+## 6. Burndown de Riscos 
+## 7. Referências Bibliográficas
+>[1]PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 6a. ed. - EUA: Project Management Institute, 2017.
 
-## 4. Histórico da revisão
+>[2]FREITAS, Renata. Aplique o Plano de Gerenciamento de Riscos no seu negócio. Disponível em: https://www.glicfas.com.br/plano-de-gerenciamento-de-riscos/. Acesso em 19 jul 2022.
+
+>[3]FREITAS, Renata. Aplique o Plano de Gerenciamento de Riscos no seu negócio. Disponível em: https://www.glicfas.com.br/estrutura-analitica-de-riscos-2/. Acesso em 19 jul 2022.
+## 8. Histórico da revisão
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|-------------|
