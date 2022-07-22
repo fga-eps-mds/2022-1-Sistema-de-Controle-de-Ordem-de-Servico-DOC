@@ -31,9 +31,9 @@ Para uma análise confiável dos riscos e uma priorização dos mesmos é necess
 |--|--|--|
 |Nenhum|Nenhum impacto|0|
 |Muito baixo|Praticamente sem impactos ao projeto|1|
-|Baixo|Impacto baixo ao projeto|2|
-|Médio|Impacto com consequências ao projeto|3|
-|Alto|Impacto que compromete o projeto|4|
+|Impacto baixo ao projeto|2|
+|Impacto com consequências ao projeto|3|
+|Impacto que compromete o projeto|4|
 |Altíssimo|Impacto que inviabiliza o projeto |5|
 
 ### 2.3 Tabela de Prioridade
@@ -43,8 +43,8 @@ Para uma análise confiável dos riscos e uma priorização dos mesmos é necess
 |Muito baixa|1 a 5|
 |Baixa|6 a 10|
 |Média|11 a 15|
-|Alta|16 a 20|
-|Muito Alta|21 a 25|
+|16 a 20|
+|21 a 25|
 
 ## 3. Estrutura Analítica de Riscos
 Estrutura Analítica de Riscos (EAR) é responsável por agrupar as possíveis causas dos riscos, o qual facilita o tratamento e reconhecimento de riscos do projeto, facilitando o processo de mitigação dos riscos.
@@ -61,25 +61,25 @@ O processo de identificação de riscos se utilizou de identificação de riscos
 
 ## 5. Documentação dos Riscos e Ações
 
-Identificador|Descrição|Categoria|Probabilidade|Impacto|Ação preventiva|Ação Reativa|
+Identificador|Descrição|Categoria|Ação preventiva|Ação Reativa|
 |--|--|--|--|--|--|--|
-|R01|Dificuldade com as tecnologias utilizadas|Técnico|Alta|Muito Alta|Treinamentos e pareamentos efetivos|consultar membros com mais experiência|
-|R02|Divergência de Horários|Gerência|Alta|Alta|Planilha de horários disponíveis dos membros|Comunicação assíncrona|
-|R03|Desistência da disciplina|Externo|Baixa|Muito Alta|Integração e motivação da equipe|Reorganização das atividades|
-|R04|Alteração de escopo|Gerência|Alto|Muito Alto|Refinamento constante do escopo|Redefinição do escopo e ajustes nas tarefas|
-|R05|Alteração de tecnologias|Técnico|Baixo|Alto|Melhorias constantes e qualidade no projeto|Treinamentos e pareamentos efetivos|
-|R06|Presença de membros nas reuniões|Externo|Muito Alto|Médio|Aviso prévio das reuniões e horários efetivos para equipe|Informar membros sobre pauta e definições da reunião|
-|R07|Dependência entre as atividades|Gerência|Alto|Alto|Planejamento estratégico das atividades|Redefinição das tarefas com intuito de eliminar as dependências|
-|R08|Baixa produtividade da equipe|Externo e Gerência|Médio|Muito Alto|Integração e motivação da equipe|Melhorar a integração da equipe|
-|R09|Dificuldade de comunicação|Gerência|Muito Baixo|Médio|Reuniões constantes e alinhamento com o time|Promover alinhamento da comunicação com os membros afetados|
-|R09|Conflito entre entregas da sprint e de tarefas de outras disciplinas|Técnico|Muito Alto|Muito Alto|Planejamento das entregas|Redefinição do planejamento das tarefas|
-|R10|Alteração no cronograma da disciplina|Externo|Baixo|Alto|nenhuma ação preventiva|Redefinição do planejamento e escopo|
-|R11|Alguns dos membros contrair Covid-19 ou outra doença|Externo|Muito Alto|Alto|nenhuma ação preventiva|Redefinição do planejamento|
-|R12|Perda de equipamentos da equipe|Externo|Muito Baixo|Alto|nenhuma ação preventiva|definição de atividades que permitam ocorrer de forma presencial|
-|R13|atraso nas entregas|Gerência|Médio|Muito Alto|Planejamento constante e escopo bem definido|Redefinição de datas para entrega e novos pareamentos|
-|R14|Pareamentos não efetivos|Gerência|Médio|Médio|Definição de pareamentos de acordo com conhecimento da equipe|Redefinição de pareamentos|
-|R15|Projeto não atender às expectativas do cliente|Gerência e Externo|Médio|Muito Alto|Acompanhamento do projeto constante|Redefinição de escopo|
-|R16|Fácil adaptação a tecnologia|Técnico|Baixo|Baixo|Estudos e treinamentos|Adição de funcionalidades ao escopo|
+|R01|Dificuldade com as tecnologias utilizadas|Técnico|Treinamentos e pareamentos efetivos|consultar membros com mais experiência|
+|R02|Divergência de Horários|Gerência|Planilha de horários disponíveis dos membros|Comunicação assíncrona|
+|R03|Desistência da disciplina|Externo|Baixa|Integração e motivação da equipe|Reorganização das atividades|
+|R04|Alteração de escopo|Gerência|Refinamento constante do escopo|Redefinição do escopo e ajustes nas tarefas|
+|R05|Alteração de tecnologias|Técnico|Melhorias constantes e qualidade no projeto|Treinamentos e pareamentos efetivos|
+|R06|Presença de membros nas reuniões|Externo|Aviso prévio das reuniões e horários efetivos para equipe|Informar membros sobre pauta e definições da reunião|
+|R07|Dependência entre as atividades|Gerência|Planejamento estratégico das atividades|Redefinição das tarefas com intuito de eliminar as dependências|
+|R08|Baixa produtividade da equipe|Externo e Gerência|Integração e motivação da equipe|Melhorar a integração da equipe|
+|R09|Dificuldade de comunicação|Gerência|Muito Baixo|Reuniões constantes e alinhamento com o time|Promover alinhamento da comunicação com os membros afetados|
+|R09|Conflito entre entregas da sprint e de tarefas de outras disciplinas|Técnico|Planejamento das entregas|Redefinição do planejamento das tarefas|
+|R10|Alteração no cronograma da disciplina|Externo|nenhuma ação preventiva|Redefinição do planejamento e escopo|
+|R11|Alguns dos membros contrair Covid-19 ou outra doença|Externo|nenhuma ação preventiva|Redefinição do planejamento|
+|R12|Perda de equipamentos da equipe|Externo|Muito Baixo|nenhuma ação preventiva|definição de atividades que permitam ocorrer de forma presencial|
+|R13|atraso nas entregas|Gerência|Planejamento constante e escopo bem definido|Redefinição de datas para entrega e novos pareamentos|
+|R14|Pareamentos não efetivos|Gerência|Definição de pareamentos de acordo com conhecimento da equipe|Redefinição de pareamentos|
+|R15|Projeto não atender às expectativas do cliente|Gerência e Externo|Acompanhamento do projeto constante|Redefinição de escopo|
+|R16|Fácil adaptação a tecnologia|Técnico|Estudos e treinamentos|Adição de funcionalidades ao escopo|
 
 ## 6. Burndown de Riscos
 
